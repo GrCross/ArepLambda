@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SparkForm",
+            "request": "launch",
+            "mainClass": "com.eci.arepCalc.SparkForm",
+            "projectName": "my-app"
+        }
+    ]
+}
